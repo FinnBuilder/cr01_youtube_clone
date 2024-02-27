@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+.video-preview-container{
+    border: 1px solid red;
+    width: 337.4px;
+}
+
+.video-thumbnail-container {
+width: 267.462px;
+}
+
+.thumbnail {
+    max-width: 100%;
+}
